@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="turtlesim" name="sim" type="turtlesim_node"/>
+	<node pkg="LiuX" name="assign2" type="assign2.py"/>
+</launch>
